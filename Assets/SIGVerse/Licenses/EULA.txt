@@ -1,0 +1,18 @@
+
+!! Under construction !!
+
+
+
+pr2 model
+License: BSD
+http://wiki.ros.org/pr2_description
+https://github.com/PR2/pr2_common/tree/indigo-devel/pr2_description
+
+
+turtlebot model
+License: BSD
+http://wiki.ros.org/turtlebot
+https://github.com/turtlebot/turtlebot
+
+
+

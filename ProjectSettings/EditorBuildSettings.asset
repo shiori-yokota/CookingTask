@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/NewtonVR/Example/NVRExampleScene.unity
+    guid: 35244dd17dcc09a4196dc8e968005aa7
+  - enabled: 0
+    path: Assets/RoboCup/RoboCup2017/HumanNavi/Scenes/HumanNaviForCompetition.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/RoboCup/RoboCup2017/HumanNaviForCompetition/Scenes/HumanNaviForCompetition.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/RoboCup/RoboCup2017/HumanNaviForCompetition/Scenes/HumanNaviForPractice_2.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/RoboCup/RoboCup2017/HumanNaviForCompetition/Scenes/HumanNaviForDemo.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/RoboCup/RoboCup2017/HumanNaviForDemo/Scenes/HumanNaviForDemo.unity
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/CookingMotion/Scenes/LogIn.unity
+    guid: 6264ae1f6d5e4da49b5fb92678a13268
+  - enabled: 1
+    path: Assets/CookingMotion/Scenes/CookingMotionDemo.unity
+    guid: d3e8d4ff984f0e54685d9e4f13d26f69
+  - enabled: 1
+    path: Assets/CookingMotion/Scenes/PlayBackMode.unity
+    guid: 317193bcfe2052244ae52e68b337f9ad
